@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" ?>
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
@@ -273,7 +273,26 @@
                     SUBIN&lt;/td&gt;
                 &lt;td&gt;
                     54 ARCHERS ROAD, GLENFIELD&lt;/td&gt;
-            &lt;/tr&gt;            
+            &lt;/tr&gt;  
+            &lt;tr&gt;
+                &lt;th colspan=3&gt;17-Dec-2017&lt;/th&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                    1&lt;/td&gt;
+                &lt;td&gt;
+                    ANOOP&lt;/td&gt;
+                &lt;td&gt;
+                    751 A EASTCOAST ROAD BROWNSBAY&lt;/td&gt;
+            &lt;/tr&gt; 
+            &lt;tr&gt;
+                &lt;td&gt;
+                    2&lt;/td&gt;
+                &lt;td&gt;
+                    BIBIN GEORGE&lt;/td&gt;
+                &lt;td&gt;
+                    3A HYTHE TCE, MAIRANGI BAY&lt;/td&gt;
+            &lt;/tr&gt;           
 &lt;/table&gt;" />
       <field dated="11-May- 2017" description="With deep sorrow, would like to announce the sad demise of Moly Paulson (50) mother of Ashly Iyson,passed away last night and her funeral will be held on today (21/5/2017) at 3.30 pm at west chalakkudy Nithyasahayamatha church. Please put together all our prayers for the departed soul."/>
         <field dated="6- Apr-2017" description="The Food fest at Malayalam Event centre( 16 waokauri place, off tidal road,Mangere) We required more volunteers from our unit on that day from 7.30 am onwards. Those who can able to come and for help cooking today @7pm would be much appreciated.(28 Nogat avenue , Papatoe) All are invited and please ensure to increase our participation and help the fund raising aspect.&lt;br/&gt;Thanks&lt;br/&gt;Blessan"/>
