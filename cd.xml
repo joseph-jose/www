@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<thumbnail>
+		<headerText>2017 Christmas carol</headerText>
+		<conten>images/TCs.png</conten>
+		<footer>Details of carol party run by the north shore community</footer>
+		<hyperlink>[servername]/netview/?config=customserv.xml</hyperlink>
+	</thumbnail>
+	<thumbnail>
+		<headerText>2017 Christmas celebration</headerText>
+		<conten>images/TProp.png</conten>
+		<footer>Details of the christrmas celebrations </footer>
+		<hyperlink>[servername]/netview/?config=property.xml</hyperlink>
+	</thumbnail>
+	<thumbnail>
+		<headerText>MSN</headerText>
+		<conten>images/TFam.png</conten>
+		<footer>Netview for MSN</footer>
+		<hyperlink>[servername]/netview/?config=msn.xml</hyperlink>
+	</thumbnail>
+	<thumbnail>
+		<headerText>Key Customer</headerText>
+		<conten>images/Tshape.png</conten>
+		<footer>Netview for Key Customer</footer>
+		<hyperlink>[servername]/netview/?config=keycustomer.xml</hyperlink>
+	</thumbnail>
+	<thumbnail>
+		<headerText>Works Over</headerText>
+		<conten>images/TFam.png</conten>
+		<footer>Netview for Works Over</footer>
+		<hyperlink>[servername]/netview/?config=worksover.xml</hyperlink>
+	</thumbnail>
+</catalog>
