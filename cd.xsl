@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <xsl:for-each select="catalog/thumbnail">
                     <div class="thumbnail">
                         <h3 class="headerText"><xsl:value-of select="headerText" /></h3>
-                        <div class="conten"><img src="{conten}" style="margin-left:15px"  /></div>
+                        <div class="conten"><img src="{conten}" style="margin-left:15px;width:170px;height:120px"  /></div>
                         <p class="footer"><xsl:value-of select="footer" /><br />                        
 							<a href="{hyperlink}">Click here</a>							
                         </p>
