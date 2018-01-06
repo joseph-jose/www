@@ -2,11 +2,7 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
-      <field dated="30-Dec- 2017" description="Dear NSMA Members,<br/>We cordially invite all of you and your families to the NSMA Christmas and New Year celebrations 2018.<br/><br/>
-When: Saturday, the 13th January 2018<br/>
-Venue: The Forrest Hill Primary School<br/>
-
-	"/>
+      <field dated="30-Dec- 2017" description="Dear "/>
       <field dated="9-Dec- 2017" description="Hi all&lt;br&gt;See the attached list for 3 day’s Carol from 12th,13th and 14th.If anyone has been left out or address change from this list please let me know ASAP.&lt;br&gt;Plz note that we didn’t include the names those who have gone for vacation and other reasons.&lt;br&gt;Carol starts @ 4 PM Everyday&lt;br&gt;Dress code: Red White&lt;br&gt;We hope you all  will join us!!!!&lt;br&gt;ThanksBlessan&lt;table border='1' bordercolor='#000000' width='100%'&gt;
             &lt;tr&gt;
                 &lt;th&gt;Srl#&lt;/th&gt;
