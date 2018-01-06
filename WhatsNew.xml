@@ -2,6 +2,30 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
+      <field dated="30-Dec- 2017" description="Dear NSMA Members,<br/>We cordially invite all of you and your families to the NSMA Christmas/New Year celebrations 2018.<br/><br/>
+When: Saturday, the 13th January 2018<br/>
+Venue: The Forrest Hill Primary School<br/>
+Time: 6pm onwards<br/><br/>
+Kindly bring $1 coins to participate in variety of exciting games arranged just for you. <br/><br/>
+Entry requirements: <br/>
+Adults: $20 <br/>
+Kids: $10 (age 5-15) <br/>
+Guests: $25 <br/><br/>
+Last date to buy your coupons will be on 10/01/2018. <br/>
+Let’s all celebrate together and make this event a grant success. <br/>
+For coupons, please contact : <br/>
+Binu - 0223210823 <br/>
+Siby - 0211440581 <br/>
+Martin - 0272748931 <br/>
+Jose - 0220997757 <br/>
+Unni - 0211296136 <br/>
+Deepa - 0212127717 <br/>
+Shino - 02108241967 <br/>
+Vishal - 02102248998 <br/>
+Deepu - 0223440305 <br/>
+സ്നേഹത്തോടെ,  <br/>
+നോർത്ത് ഷോർ മലയാളി അസോസിയേഷൻ 
+	"/>
       <field dated="9-Dec- 2017" description="Hi all&lt;br&gt;See the attached list for 3 day’s Carol from 12th,13th and 14th.If anyone has been left out or address change from this list please let me know ASAP.&lt;br&gt;Plz note that we didn’t include the names those who have gone for vacation and other reasons.&lt;br&gt;Carol starts @ 4 PM Everyday&lt;br&gt;Dress code: Red White&lt;br&gt;We hope you all  will join us!!!!&lt;br&gt;ThanksBlessan&lt;table border='1' bordercolor='#000000' width='100%'&gt;
             &lt;tr&gt;
                 &lt;th&gt;Srl#&lt;/th&gt;
@@ -587,11 +611,6 @@
          
 &lt;/table&gt;" />
       <field dated="11-May- 2017" description="With deep sorrow, would like to announce the sad demise of Moly Paulson (50) mother of Ashly Iyson,passed away last night and her funeral will be held on today (21/5/2017) at 3.30 pm at west chalakkudy Nithyasahayamatha church. Please put together all our prayers for the departed soul."/>
-        <field dated="6- Apr-2017" description="The Food fest at Malayalam Event centre( 16 waokauri place, off tidal road,Mangere) We required more volunteers from our unit on that day from 7.30 am onwards. Those who can able to come and for help cooking today @7pm would be much appreciated.(28 Nogat avenue , Papatoe) All are invited and please ensure to increase our participation and help the fund raising aspect.&lt;br/&gt;Thanks&lt;br/&gt;Blessan"/>
     </items>
 </configuration>
 
-<!--
-    See Query widget tag reference at
-    http://links.esri.com/querywidget
--->
