@@ -5,7 +5,7 @@
         <field Id="1" Title="Carol" Server="\Photos\" Path="2017\Christmas\Carol\" description="View our photos during our 2017-carol" items="1.jpg, 2.jpg, 3.jpg, 4.jpg"/>
         <field Id="2" Title="Carol" Server="\Photos\" Path="2017\Christmas\Carol\" description="View our photos during our 2017-carol" items="1.jpg, 2.jpg, 3.jpg, 4.jpg"/>
         <field Id="3" Title="Carol" Server="https://raw.githubusercontent.com/joseph-jose/www/master/" Path="2017/Christmas/Carol/" description="View our photos during our 2017-carol" items="1.jpg, 2.jpg, 3.jpg, 4.jpg"/>
-        <field Id="4" Title="Carol" Server="\Photos\" Path="2017\Christmas\Celeb\" description="View our photos during our 2017-celebration conducted in Forresthill school" items="1.jpg, 2.jpg, 3.jpg, 4.jpg"/>
+        <field Id="4" Title="Carol" Server="https://raw.githubusercontent.com/joseph-jose/www/master/" Path="2017/Christmas/Celeb/" description="View our photos during our 2017-celebration conducted in Forresthill school" items="1.jpg, 2.jpg, 3.jpg, 4.jpg"/>
         <field Id="5" Title="Carol" Server="\Photos\" Path="2017\Christmas\Carol\" description="View our photos during our 2017-carol" items="1.jpg, 2.jpg, 3.jpg, 4.jpg"/>
     </items>
 </configuration>
