@@ -2,10 +2,11 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
-	<field description="With immense sorrow, we inform you the sad demise of Mrs Teena Kunjappan (29), a native of  Kundara, Kollam. Teena is the tragic victim of an accidental drowning at Tahunanui Beach, Nelson, 
+<field dated="30-Jan-2018" description="With immense sorrow, we inform you the sad demise of Mrs Teena Kunjappan (29), a native of  Kundara, Kollam. Teena is the tragic victim of an accidental drowning at Tahunanui Beach, Nelson, 
 where she and her husband Mr. Jilu C John had gone for a stroll. She died at the scene before the arrival of the emergency services and Jilu was taken to Nelson Hospital in a moderate condition.
 We are looking forward for helping the family for the repatriation to India. Kindly, come forward for raising funds to help the family, 
-Please use below link for ur contributions.<br/> <xlink:href="https://givealittle.co.nz/cause/raising-money-to-repatriate-the-remains-of-mrs xlink:show="new">
+Please use below link for ur contributions.<br/> <xlink:href='https://givealittle.co.nz/cause/raising-money-to-repatriate-the-remains-of-mrs xlink:show='new'/>
+"/>
       <field dated="07-Jan- 2018" description="It is with sorror we inform you the sad demise of Mr V.V Cherian (87), Valiyaveetil, father of Siby cherian residing at 2/23 Brooke street Milford. He passed away in kerala and the funeral will be held on 8th -Jan-2018 at 10 am at kudamaloor church. Please put together all our prayers for the departed soul.&lt;br/&gt;
 &lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2018/Notices/Siby.jpg' /&gt;
 "/>
