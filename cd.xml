@@ -12,4 +12,10 @@
 		<footer>Photos of christmas celebrations conducted in Forresthill school</footer>
 		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=4</hyperlink>
 	</thumbnail>
+        <thumbnail>
+		<headerText>2017 Arangu </headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2017/Arangu/1.jpg</conten>
+		<footer>Photos of Arangu  run by the north shore community</footer>
+		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=5</hyperlink>
+	</thumbnail>
 </catalog>
