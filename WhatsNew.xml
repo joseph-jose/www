@@ -2,7 +2,7 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
-      <field dated="14-Jul-2018" description="An exciting news for everyone.&lt;br/&gt;We are celebrating our ONAM 2018 on 25/08/2018 which will be the same day of THIRUVONAM.&lt;br/&gt;" />
+      <field dated="14-Jul-2018" description="<An exciting news for everyone.&lt;br/&gt;We are celebrating our ONAM 2018 on 25/08/2018 which will be the same day of THIRUVONAM.&lt;br/&gt;" />
       <field dated="15-Apr-2018" description="Dear NSMA Members,&lt;br/&gt;We cordially invite all of you and your families to the NSMA Arangu- Music and Dance Festival- 2018.&lt;br/&gt;&lt;br/&gt;
 When: Saturday, the 21st Apr 2018&lt;br/&gt;
 Venue: Glenfield college theatre, 60 Kaipatiki Rd, Glenfield&lt;br/&gt;
