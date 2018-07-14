@@ -2,6 +2,7 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
+	<field description="<b>Hello everyone, <br/><br/>An exciting news for everyone.<br/>We are celebrating our ONAM 2018 on 25/08/2018 which will be the same day of THIRUVONAM.<br/>Venue will be forrest hill school<br/>Eagerly waiting to meet all the families on this auspicious day.<br/>സ്നേഹത്തോടെ,<br/>നോർത്ത് ഷോർ മലയാളി അസോസിയേഷൻ <br/>http://nsma.org.nz/<br/>https://m.facebook.com/groups/243474349063848<br/></b>." dated="14-July- 2018"/>
 	<field description="With deep sorrow, I am sharing the sad demise of Mr E.M Mathai Edakkarayil, the beloved father of our famil unit member Mrs Sonia Bobby residing at 6.49 Corunna road, Milford passed away yesterday morning and the funeral  will be held on Tuesday 17th April @3pm at St Mary's Forane church, kaduthuruthy (Valiayapalli). Kindly join all our prayers for eternal peace of the departed soul." dated="15-April- 2018"/>
       <field dated="15-Apr-2018" description="Dear NSMA Members,&lt;br/&gt;We cordially invite all of you and your families to the NSMA Arangu- Music and Dance Festival- 2018.&lt;br/&gt;&lt;br/&gt;
 When: Saturday, the 21st Apr 2018&lt;br/&gt;
