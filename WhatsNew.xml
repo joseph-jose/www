@@ -2,6 +2,13 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
+      <field dated="15-Apr-2018" description="Dear Members,&lt;br/&gt;Northshore malayali association will be celebrating our Christmas and New year programme on 5th of January 2019 at Takapuna War Memorial Hall. The programme will commence at 5pm. We are planning to hold a night with entertainment and fun. We request your complete co-operation to make this a success. Lets all celebrate this Xmas and New year with a joyful spirit.&lt;br/&gt;
+Venue: Glenfield college theatre, 60 Kaipatiki Rd, Glenfield&lt;br/&gt;
+Let’s all celebrate together and make this event a grant success. &lt;br/&gt;
+.&lt;br/&gt;
+&lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2018/Arangu/Arangu2018.jpg' /&gt;
+സ്നേഹത്തോടെ,  &lt;br/&gt;
+നോർത്ത് ഷോർ മലയാളി അസോസിയേഷൻ" />
       <field dated="15-Apr-2018" description="Dear NSMA Members,&lt;br/&gt;We cordially invite all of you and your families to the NSMA Arangu- Music and Dance Festival- 2018.&lt;br/&gt;&lt;br/&gt;
 When: Saturday, the 21st Apr 2018&lt;br/&gt;
 Venue: Glenfield college theatre, 60 Kaipatiki Rd, Glenfield&lt;br/&gt;
