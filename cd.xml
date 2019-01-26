@@ -3,7 +3,7 @@
         <thumbnail>
 		<headerText>2018 Christmas Celebrations</headerText>
 		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/Christmas/1.JPG</conten>
-		<footer>Photos of christmas celebrations conducted in Takapuna War Memorial hall</footer>
+		<footer>Christmas celebrations conducted in Takapuna War Memorial hall</footer>
 		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=7</hyperlink>
 	</thumbnail>
         <thumbnail>
@@ -23,5 +23,11 @@
 		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2017/Christmas/Carol/1.jpg</conten>
 		<footer>Photos of carol party run by the north shore community</footer>
 		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=3</hyperlink>
+	</thumbnail>
+	<thumbnail>
+		<headerText>2017 Christmas celebrations</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2017/Christmas/Celeb/1.jpg</conten>
+		<footer>Photos of christmas celebrations conducted in Forresthill school</footer>
+		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=4</hyperlink>
 	</thumbnail>
 </catalog>
