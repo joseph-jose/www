@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
         <thumbnail>
+		<headerText>2019 St Alphonsa farewell for Father Joy</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/StAlphonsaJoy/1.JPG</conten>
+		<footer>In the north shore</footer>
+		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=9</hyperlink>
+	</thumbnail>
+        <thumbnail>
+		<headerText>2019 Arangu celebrations</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/Arangu/0.JPG</conten>
+		<footer>Arangu in Glenfield college 2019</footer>
+		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=8</hyperlink>
+	</thumbnail>
+        <thumbnail>
 		<headerText>2018 Christmas Celebrations</headerText>
 		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/Christmas/1.JPG</conten>
 		<footer>Christmas celebrations conducted in Takapuna War Memorial hall</footer>
