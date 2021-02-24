@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+        <thumbnail>
+		<headerText>Health</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/StAlphonsaJoy/1.jpg</conten>
+		<footer>Do yoga with Anu</footer>
+		<desc>Anu is a graduate in Yoga and conducts classes in Auckland. Destress yourself and flex yourself. Call/Watsup @022</desc>
+		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=9</hyperlink>
+	</thumbnail>
+        <thumbnail>
+		<headerText>Vehicles</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/Arangu/0.jpg</conten>
+		<footer>Purchase your car with Blesson</footer>
+		<desc>Blesson imports cars and has been supplying cars for the last couple of years. Have a chat with him to check the options of vehicles available @022</desc>		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=8</hyperlink>
+	</thumbnail>
+        <thumbnail>
+		<headerText>Vehicles</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/Christmas/1.JPG</conten>
+		<footer>Car Rentals with Tiffany</footer>
+		<desc>Tiffancy car rentals run by Name has the best collection of cars from 5 seater to 7 seaters. Reach him @022</desc>		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=7</hyperlink>
+	</thumbnail>
+</catalog>
