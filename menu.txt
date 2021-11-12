@@ -1,0 +1,38 @@
+﻿        <!--- Navbar menu --->
+        <nav class="navbar navbar-expand-lg navbar-light">
+          <a class="navbar-brand" href="#"><img src="images/logo3.png" alt=""> </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav mt-2 mt-lg-0">
+              <li class="nav-item_Index.html">
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item_Mabout-us.html">
+                <a class="nav-link" href="Mabout-us.html">About Us</a>
+              </li>
+              <li class="nav-item_Mwhatwedo.htm">
+                <a class="nav-link" href="Mwhatwedo.html">What We Do</a>
+              </li>
+              <li class="nav-item_MbmrInfo dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="notices.aspx?id=1">
+                  Member Info</a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="DMPhotoGallerySummary.aspx?id=2">Messages</a>
+                    <a class="dropdown-item" href="DMPhotoGallerySummary.aspx?id=3">Marketplace</a>
+                  </div>
+              </li>
+              <li class="nav-item_PhtGallery">
+                <a class="nav-link" href="DMPhotoGallerySummary.aspx">Gallery</a>
+              </li>
+              <li class="nav-item_Moffice-bearers.html">
+                <a class="nav-link" href="Moffice-bearers.html">Office Bearers</a>
+              </li>
+              <li class="nav-item_MContact.html">
+                <a class="nav-link" href="Mcontact.html">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        <!--- ./Navbar menu --->
