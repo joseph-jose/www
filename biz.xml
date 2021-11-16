@@ -2,14 +2,16 @@
 <catalog>
         <thumbnail>
 		<headerText>Vehicles</headerText>
-		<conten>[Server]/biz/img_vehBlesson.jpg</conten>
+		<conten>[DataServer]/biz/img_vehBlesson.jpg</conten>
 		<footer>Purchase your car with Blesson</footer>
-		<desc>Blesson imports cars and has been supplying cars for the last couple of years. Have a chat with him to check the options of vehicles available @022</desc>		<hyperlink></hyperlink>
+		<desc>Blesson imports cars and has been supplying cars for the last couple of years. Have a chat with him to check the options of vehicles available @022</desc>
+		<hyplink></hyplink>
 	</thumbnail>
         <thumbnail>
 		<headerText>Photography</headerText>
-		<conten>[Server]/biz/img_photoBasil.jpg</conten>
+		<conten>[DataServer]/biz/img_photoBasil.jpg</conten>
 		<footer>Photography with Basil</footer>
-		<desc>Basil has an eye for detail and the ability to capture your precious moments. He delivers those high quality capture with the right settings that will remind you even years later. Call @022 454 0044</desc>		<hyperlink>http://nsma.org.nz/DMBizGalleryDetail.aspx?id=7</hyperlink>
+		<desc>Basil has an eye for detail and the ability to capture your precious moments. He delivers those high quality capture with the right settings that will remind you even years later. Call @022 454 0044</desc>
+		<hyplink>[Server]/DMBizGalleryDetail.aspx?id=7</hyplink>
 	</thumbnail>
 </catalog>
