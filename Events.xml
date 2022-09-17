@@ -2,6 +2,12 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
+      <field dated="7-Sep-2022" description="Maestro is in Auckland on 24 Sep 2022 &lt;br/&gt;&lt;br/&gt;
+&lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2022/Onam/ilayiAuckland.jpeg' /&gt;
+" />
+      <field dated="10-Sep-2022" description="Indian weekender on next HCI &lt;br/&gt;&lt;br/&gt;
+&lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2022/Onam/NBhushanHCI.jpeg' /&gt;
+" />
       <field dated="30-Mar-2020" description="Please pass this to any Indian national, who needs help due to the lockdown in NZ &lt;br/&gt;&lt;br/&gt;
 &lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2020/coronoNZIn.jpg' /&gt;
 " />
