@@ -4,12 +4,14 @@
 		<headerText>Member activities</headerText>
 		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/StAlphonsaJoy/1.jpg</conten>
 		<footer>View all activities by members</footer>
-		<hyperlink>http://nsma.org.nz/DMBizGallerySummary.aspx?id=1</hyperlink>
+		<hyperlink></hyperlink>
+		<hyperlinkold>http://nsma.org.nz/DMBizGallerySummary.aspx?id=1</hyperlinkold>
 	</thumbnail>
         <thumbnail>
 		<headerText>Giveways for members</headerText>
 		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2019/Arangu/0.jpg</conten>
 		<footer>View all giveaways</footer>
-		<hyperlink>http://nsma.org.nz/DMGiveawayLists.aspx?id=2</hyperlink>
+		<hyperlink></hyperlink>
+		<hyperlinkold>http://nsma.org.nz/DMGiveawayLists.aspx?id=2</hyperlinkold>
 	</thumbnail>
 </catalog>
