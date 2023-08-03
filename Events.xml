@@ -2,9 +2,12 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
-      <field dated="3-Aug-2023" description="NSMA presents Onam 2023 &lt;br/&gt;&lt;br/&gt;
+      <field dated="27-Jul-2023" description="NSMA presents Onam 2023 &lt;br/&gt;&lt;br/&gt;
 &lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2023/Onam/onam2023Presents.jpg' /&gt;
-" />        
+" />   
+      <field dated="26-Jul-2023" description="NSMA executive committe 2023-2024 &lt;br/&gt;&lt;br/&gt;
+&lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2023/nsmaMembers.jpg' /&gt;
+" />         
       <field dated="7-Sep-2022" description="Maestro is in Auckland on 24 Sep 2022 &lt;br/&gt;&lt;br/&gt;
 &lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2022/Onam/ilayiAuckland.jpeg' /&gt;
 " />
