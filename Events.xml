@@ -2,6 +2,9 @@
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
     <items>
+      <field dated="10-Aug-2023" description="NSMA presents Mega Thiruvathira &lt;br/&gt;&lt;br/&gt;
+&lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2023/Onam/OnamThrvthra2023.jpg' /&gt;
+" />        
       <field dated="27-Jul-2023" description="NSMA presents Onam 2023 &lt;br/&gt;&lt;br/&gt;
 &lt;img src='https://raw.githubusercontent.com/joseph-jose/www/master/2023/Onam/onam2023Presents.jpg' /&gt;
 " />   
