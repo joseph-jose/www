@@ -1,13 +1,7 @@
 ﻿<?xml version="1.0" ?>
 <configuration label="Louisville Police Stations">
     <marquee>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_PublicSafety_Louisville/MapServer/3</marquee>
-    <items>
-<field dated="30-Jan-2018" description="With immense sorrow, we inform you the sad demise of Mrs Teena Kunjappan (29), a native of  Kundara, Kollam. Teena is the tragic victim of an accidental drowning at Tahunanui Beach, Nelson, 
-where she and her husband Mr. Jilu C John had gone for a stroll. She died at the scene before the arrival of the emergency services and Jilu was taken to Nelson Hospital in a moderate condition.
-We are looking forward for helping the family for the repatriation to India. Kindly, come forward for raising funds to help the family, 
-Please use below link for ur contributions.&lt;br&gt; &lt;xlink:href='https://givealittle.co.nz/cause/raising-money-to-repatriate-the-remains-of-mrs' 
-xlink:show='new'/&gt;
-"/>        
+    <items> 
       <field dated="22-Aug-2023" description="Hello Everyone,&lt;br/&gt;&lt;br/&gt;Invitation to all talented individuals to participate in cultural programs and group performances. If you are keen to be part of this event please register your names.&lt;br/&gt;Contact &lt;br/&gt;Boney Mathew : 0225487385
 &lt;br/&gt;Sonia Ritto  : 0223326266&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Kind regards&lt;br/&gt;Team NSMA" />         
       <field dated="22-Aug-2023" description="Get your tickets today‼️‼️
