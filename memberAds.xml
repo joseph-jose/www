@@ -8,7 +8,6 @@
 	<Location>C:\\Joseph\\Source\\OS\\_Picture\\1</Location>
 
 	<xImgs>20240923-1.jpg|20240923-2.jpg|20240923-3.jpg</xImgs>
-
 	<ItemDescription>Make:Volswagon|Model:Polo|Model Detail:|Year:2012|Body Style:Hatchback|Engine Size:1197|Colour:Red|Fuel type:Petrol|Import history|Imported|Number of owners:1 owner|Transmission:Automatic|Kms:82000</ItemDescription>
 	<Phone>+64 29 020 41411</Phone>
 	<Email></Email>
@@ -25,12 +24,11 @@
 	<Location>2C:\\Joseph\\Source\\OS\\_Picture\\11</Location>
 
 	<xImgs>20240921-1.jpg|20240921-2.jpg|20240921-3.jpg|20240921-4.jpg|20240921-5.jpg|20240921-6.jpg</xImgs>
-
 	<ItemDescription>Make:Mazda|Model:Premacy|Model Detail:|Year:2014|Body Style:Station Wagon|Engine Size:1997|Colour:Brown|Fuel type:Petrol|Import history|Imported|Number of owners:2 owners|Kms:81614</ItemDescription>
-	<Phone>+64 29 021 31251</ItemDescription>
-	<Phone></Phone>
+	<Phone>+64 29 021 31251</Phone>
 	<Email></Email>
-	<Mobile></Mobile><Name>Jene Joseph</Name>
+	<Mobile></Mobile>
+	<Name>Jene Joseph</Name>
 
 
 	<Website>www.somesite.com</Website>
