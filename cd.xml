@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
         <thumbnail>
+		<headerText>2024 Onam Celebration</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/onam/Celeb/8.JPG</conten>
+		<footer>In the north shore</footer>
+		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=11</hyperlink>
+	</thumbnail>	
+        <thumbnail>
 		<headerText>2023 Onam Celebration</headerText>
 		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2023/Onam/function/chen2.jpg</conten>
 		<footer>In the north shore</footer>
