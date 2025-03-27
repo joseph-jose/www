@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1, 
+        "title": "Home", 
+        "link": "index.htm", 
+        "typ" : 0, 
+        "hassub" : 0,
+        "rel" : 0, 
+        "srt" : 1  
+    },
+    {
+        "id": 2,
+        "title": "About Us",
+        "link": "Mcontact.html?id=aboutus",
+        "typ" : 0,
+        "hassub" : 0,
+        "rel" : 0,
+        "srt" : 2   
+    },
+    {
+        "id": 3,
+        "title": "What We Do",
+        "link": "Mcontact.html?id=What We Do",
+        "typ" : 0,
+        "hassub" : 0,
+        "rel" : 0,
+        "srt" : 3   
+    },
+    {
+        "id": 4,
+        "title": "Member Info",
+        "link": "notices.aspx?id=1",
+        "typ" : 0,
+        "hassub" : 1,
+        "rel" : 0,
+        "srt" : 4    
+    },  
+    {
+        "id": 5,
+        "title": "Messages",
+        "link": "DMPhotoGallerySummary.aspx?id=2",
+        "typ" : 0,
+        "hassub" : 0,
+        "rel" : 4,
+        "srt" : 1   
+    },   
+    {
+        "id": 6,
+        "title": "Marketplace",
+        "link": "DMPhotoGallerySummary.aspx?id=3",
+        "typ" : 0,
+        "hassub" : 0,
+        "rel" : 5,
+        "srt" : 2   
+    },    
+    {
+        "id": 7,
+        "title": "Gallery",
+        "link": "DMPhotoGallerySummary.aspx",
+        "typ" : 0,
+        "hassub" : 0,
+        "rel" : 0,
+        "srt" : 5   
+    },  
+    {
+        "id": 8,
+        "title": "Office Bearers",
+        "link": "Moffice-bearers.html",
+        "typ" : 0,
+        "hassub" : 0,
+        "rel" : 0,
+        "srt" : 6    
+    },  
+    {
+        "id": 9,
+        "title": "Contact",
+        "link": "Mcontact.html?id=Contact",
+        "typ" : 0,
+        "hassub" : 0,
+        "rel" : 0,
+        "srt" : 7   
+    }               
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1, 
+        "pg": "home", 
+        "topTitle": "North Shore Malayali Association",
+        "topSubTitle": "Reach us by getting in touch with the asssociation",
+        "topImage": "Reach us by getting in touch with the asssociation",
+        "conTitle": "About Us",
+        "pgdata": "www.facebook.com", 
+        "adtop" : "..\\fb.jpg", 
+        "col1" : "..\\ft.jpg",
+        "col2" : "..\\ft.jpg", 
+        "col3" : 1  
+    },
+    {
+        "id": 2, 
+        "pg": "aboutus", 
+        "topTitle": "North Shore Malayali Association",
+        "topSubTitle": "We are a Non-profit organization of North Shore Malayalees, Auckland. Our aim is to promote unity and cultural activities among North Shore Malayalees.",
+        "topImage": "images\\jumping.jpg",
+        "conTitle": "About Us",
+        "conData": "<p>Malayalam is a Dravidian language spoken in India, predominantly in the state of Kerala. It is one of the 22 scheduled languages of India and was designated as a Classical Language in India in 2013. Malayalam has official language status in the state of Kerala and in the union territories of Lakshadweep and Puducherry and is spoken by around 38 million people.People speaking this language are called malayalis. </p><p>The North Shore Malayali association is based in Auckland North Shore. We are a community led by our members catering facitilities catering suitable for it's members and children.</p>", 
+        "conAd" : "ads\\BNZ.png", 
+        "col1" : "..\\ft.jpg",
+        "col2" : "..\\ft.jpg", 
+        "col3" : 1  
+    },
+    {
+        "id": 3, 
+        "pg": "What We Do", 
+        "topTitle": "North Shore Malayali Association",
+        "topSubTitle": "All our activities are communitiy driven by a team of volunteers. Based on the availability of these volunteers we cater to differnt obligations for the malyalee community. We try to bring as many activities for it's members and also the children specially.",
+        "topImage": "images\\whatwedo.jpg",
+        "conTitle": "What We Do",       
+        "conData": "<p>Our activitis fall into the below responsibilities-</p><ul><li>To deliver culturally appropriate services to our members</li><li>Medium for networking for it’s members and families.</li><li>Partnership with other cultural groups.</li><li>To organise seminars, meetings and get together of Malayalis settled here.</li><li>To celebrate major national festivals and Kerala festivals.</li><li>To conduct Malayalam classes and to foster Malayali and Kerala culture to the second generation Malayalis settled here</li><li>To conduct entertainment programmes and to encourage artists.</li><li>To encourage indoor and outdoor sports </li><li>To laison with governmental, nongovernmental departments, associations, public personalities etc towards the attainment of the objectives of the association.</li></ul>", 
+        "conAd" : "ads\\Twicars.jpg", 
+        "col1" : "..\\ft.jpg",
+        "col2" : "..\\ft.jpg", 
+        "col3" : 1  
+    },    
+    {
+        "id": 8, 
+        "pg": "officebearers", 
+        "topTitle": "North Shore Malayali Association",
+        "topSubTitle": "Reach us by getting in touch with the asssociation",
+        "topImage": "Reach us by getting in touch with the asssociation",
+        "conTitle": "About Us",       
+        "conData": "www.facebook.com", 
+        "conAd" : "..\\fb.jpg", 
+        "col1" : "..\\ft.jpg",
+        "col2" : "..\\ft.jpg", 
+        "col3" : 1  
+    },
+    {
+        "id": 9, 
+        "pg": "Contact", 
+        "topTitle": "North Shore Malayali Association",
+        "topSubTitle": "Reach us by getting in touch with the asssociation",
+        "topImage": "images\\contactus.jpg",
+        "conTitle": "Contact",
+        "conData": "<p><img src='images/address.png'>The North Shore Malayalee Association (NSMA)</p><p><img src='images/email.png'><a href='mailto:malayaliz.northshore@gmail.com'>malayaliz.northshore@gmail.com</a></p><p><img src='images/phone.png'>President : Seena Eapen - 02102439221</p><p><img src='images/website.png'><a target='_blank' href='http://www.nsma.org.nz'>www.nsma.org.nz</p><p><img src='images/enquiry.png'><a target='_blank' href='https://www.facebook.com/NorthShoreMalayaliAssociation/'>https://www.facebook.com/NorthShoreMalayaliAssociation/</a></p><p><img src='images/dollar.png'>Bank: BNZ bank <br />Account Name: NORTHSHORE MALAYALI ASSOCIATION <br/>Account #: 020278029505005</p>", 
+        "conAd" : "ads\\Opm.png", 
+        "col1" : "..\\ft.jpg",
+        "col2" : "..\\ft.jpg", 
+        "col3" : 1  
+    }        
+]
