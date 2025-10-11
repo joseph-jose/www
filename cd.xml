@@ -2,9 +2,9 @@
 <catalog>
     <thumbnail>
 		<headerText>2025 Onam Celebration</headerText>
-		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2025/onam/Celeb/a3.jpg</conten>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2025/onam/Celeb/a3.JPG</conten>
 		<footer>In the north shore</footer>
-		<hyperlink>http://nsma.org.nz/DMPhotoPreview2.aspx?id=13</hyperlink>
+		<hyperlink>http://nsma.org.nz/PhotoPreview2.aspx?id=13</hyperlink>
 	</thumbnail>
 	<thumbnail>
 		<headerText>2025 Arangu</headerText>
@@ -67,6 +67,7 @@
 		<hyperlink>http://nsma.org.nz/PhotoPreview.aspx?id=4</hyperlink>
 	</thumbnail>
 </catalog>
+
 
 
 
