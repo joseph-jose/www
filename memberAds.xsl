@@ -7,6 +7,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	{ "rows": [
 	<xsl:for-each select="root/row">
 		{
+			"Id": "<xsl:value-of select="Id"/>",
+			"Type": "<xsl:value-of select="Type"/>",
 			"Dexc": "<xsl:value-of select="Dexc"/>",
 			"Location": "<xsl:value-of select="Location"/>",
 			"xImgs": "<xsl:value-of select="xImgs"/>",

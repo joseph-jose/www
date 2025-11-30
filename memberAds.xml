@@ -1,38 +1,171 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
-  
   <row>
-    
-	<Dexc>For sale.. Volkswagen Polo 2012|asking price $11000.. negotiable|Contact number +64 29 020 41411 </Dexc>
-
-	<Location>C:\\Joseph\\Source\\OS\\_Picture\\1</Location>
-
+	<Id>1</Id>
+	<Type>Imported Vehicle</Type>
+	<Dexc>For sale.. Volkswagen Polo 2012|asking price $11000.. negotiable|Contact number +64Â 29Â 020Â 41411</Dexc>
+	<Location>img\\bizList\\1\\</Location>
 	<xImgs>20240923-1.jpg|20240923-2.jpg|20240923-3.jpg</xImgs>
 	<ItemDescription>Make:Volswagon|Model:Polo|Model Detail:|Year:2012|Body Style:Hatchback|Engine Size:1197|Colour:Red|Fuel type:Petrol|Import history|Imported|Number of owners:1 owner|Transmission:Automatic|Kms:82000</ItemDescription>
-	<Phone>+64 29 020 41411</Phone>
+	<Phone>+64Â 29Â 020Â 41411</Phone>
 	<Email></Email>
 	<Mobile></Mobile>
-
-	<Website></Website>
-
   </row>
-  
   <row>
-    
+	<Id>2</Id>
+	<Type>Vehicle</Type>
 	<Dexc>Import for Sale Mazda Premacy Brown, 5 door, Petrol, 2014, 1990 cc, Automatic</Dexc>
-
-	<Location>2C:\\Joseph\\Source\\OS\\_Picture\\11</Location>
-
+	<Location>img\\bizList\\2\\</Location>
 	<xImgs>20240921-1.jpg|20240921-2.jpg|20240921-3.jpg|20240921-4.jpg|20240921-5.jpg|20240921-6.jpg</xImgs>
 	<ItemDescription>Make:Mazda|Model:Premacy|Model Detail:|Year:2014|Body Style:Station Wagon|Engine Size:1997|Colour:Brown|Fuel type:Petrol|Import history|Imported|Number of owners:2 owners|Kms:81614</ItemDescription>
-	<Phone>+64 29 021 31251</Phone>
+	<Phone>+64Â 29Â 021Â 31251</Phone>
 	<Email></Email>
 	<Mobile></Mobile>
-	<Name>Jene Joseph</Name>
-
-
 	<Website>www.somesite.com</Website>
-
   </row>
-
+  <row>
+	<Id>3</Id>
+	<Type>Food</Type>
+	<Dexc>Fresh homemade cookies for sale. Perfect for any occasion. Contact for pricing and orders.</Dexc>
+	<Location>img\\bizList\\3\\</Location>
+	<xImgs>cookies-1.jpg|cookies-2.jpg</xImgs>
+	<ItemDescription>Type:Homemade|Flavor:Various|Packaging:Customizable|Freshness:Guaranteed</ItemDescription>
+	<Phone>+64 21 123 4567</Phone>
+	<Email>mrs.higgins@example.com</Email>
+	<Mobile>+64 21 123 4567</Mobile>
+  </row>
+  <row>
+	<Id>4</Id>
+	<Type>Property</Type>
+	<Dexc>Rental property available. Fully furnished and ready to move in.</Dexc>
+	<Location>img\\bizList\\4\\</Location>
+	<xImgs>rental-lui-1.jpg|rental-lui-2.jpg</xImgs>
+	<ItemDescription>Type:Apartment|Bedrooms:2|Bathrooms:1|Furnishing:Furnished|Location:City Center|Rent:$1,200/month</ItemDescription>
+	<Phone>+64 29 123 4567</Phone>
+	<Email>mr.lui@example.com</Email>
+	<Mobile>+64 29 123 4567</Mobile>
+  </row>	
+  <row>
+	<Id>5</Id>
+	<Type>Service</Type>
+	<Dexc>Professional cleaning services for homes and offices. Contact us for a quote.</Dexc>
+	<Location>img\\bizList\\5\\</Location>
+	<xImgs>cleaning-singh-1.jpg|cleaning-singh-2.jpg</xImgs>
+	<ItemDescription>Service Type:Cleaning|Specialization:Home and Office|Availability:7 Days a Week|Experience:5 Years</ItemDescription>
+	<Phone>+64 21 654 9876</Phone>
+	<Email>mr.singh@example.com</Email>
+	<Mobile>+64 21 654 9876</Mobile>
+  </row>
+  <row>
+	<Id>6</Id>
+	<Type>Imported Vehicle</Type>
+	<Dexc>Page2-For sale.. Volkswagen Polo 2012|asking price $11000.. negotiable|Contact number +64Â 29Â 020Â 41411</Dexc>
+	<Location>img\\bizList\\1\\</Location>
+	<xImgs>20240923-1.jpg|20240923-2.jpg|20240923-3.jpg</xImgs>
+	<ItemDescription>Make:Volswagon|Model:Polo|Model Detail:|Year:2012|Body Style:Hatchback|Engine Size:1197|Colour:Red|Fuel type:Petrol|Import history|Imported|Number of owners:1 owner|Transmission:Automatic|Kms:82000</ItemDescription>
+	<Phone>+64Â 29Â 020Â 41411</Phone>
+	<Email></Email>
+	<Mobile></Mobile>
+  </row>
+  <row>
+	<Id>7</Id>
+	<Type>Vehicle</Type>
+	<Dexc>Import for Sale Mazda Premacy Brown, 5 door, Petrol, 2014, 1990 cc, Automatic</Dexc>
+	<Location>img\\bizList\\2\\</Location>
+	<xImgs>20240921-1.jpg|20240921-2.jpg|20240921-3.jpg|20240921-4.jpg|20240921-5.jpg|20240921-6.jpg</xImgs>
+	<ItemDescription>Make:Mazda|Model:Premacy|Model Detail:|Year:2014|Body Style:Station Wagon|Engine Size:1997|Colour:Brown|Fuel type:Petrol|Import history|Imported|Number of owners:2 owners|Kms:81614</ItemDescription>
+	<Phone>+64Â 29Â 021Â 31251</Phone>
+	<Email></Email>
+	<Mobile></Mobile>
+	<Website>www.somesite.com</Website>
+  </row>
+  <row>
+	<Id>8</Id>
+	<Type>Food</Type>
+	<Dexc>Fresh homemade cookies for sale. Perfect for any occasion. Contact for pricing and orders.</Dexc>
+	<Location>img\\bizList\\3\\</Location>
+	<xImgs>cookies-1.jpg|cookies-2.jpg</xImgs>
+	<ItemDescription>Type:Homemade|Flavor:Various|Packaging:Customizable|Freshness:Guaranteed</ItemDescription>
+	<Phone>+64 21 123 4567</Phone>
+	<Email>mrs.higgins@example.com</Email>
+	<Mobile>+64 21 123 4567</Mobile>
+  </row>
+  <row>
+	<Id>9</Id>
+	<Type>Property</Type>
+	<Dexc>Rental property available. Fully furnished and ready to move in.</Dexc>
+	<Location>img\\bizList\\4\\</Location>
+	<xImgs>rental-lui-1.jpg|rental-lui-2.jpg</xImgs>
+	<ItemDescription>Type:Apartment|Bedrooms:2|Bathrooms:1|Furnishing:Furnished|Location:City Center|Rent:$1,200/month</ItemDescription>
+	<Phone>+64 29 123 4567</Phone>
+	<Email>mr.lui@example.com</Email>
+	<Mobile>+64 29 123 4567</Mobile>
+  </row>	
+  <row>
+	<Id>10</Id>
+	<Type>Service</Type>
+	<Dexc>Professional cleaning services for homes and offices. Contact us for a quote.</Dexc>
+	<Location>img\\bizList\\5\\</Location>
+	<xImgs>cleaning-singh-1.jpg|cleaning-singh-2.jpg</xImgs>
+	<ItemDescription>Service Type:Cleaning|Specialization:Home and Office|Availability:7 Days a Week|Experience:5 Years</ItemDescription>
+	<Phone>+64 21 654 9876</Phone>
+	<Email>mr.singh@example.com</Email>
+	<Mobile>+64 21 654 9876</Mobile>
+  </row>  
+  <row>
+	<Id>11</Id>
+	<Type>Imported Vehicle</Type>
+	<Dexc>Page2-For sale.. Volkswagen Polo 2012|asking price $11000.. negotiable|Contact number +64Â 29Â 020Â 41411</Dexc>
+	<Location>img\\bizList\\1\\</Location>
+	<xImgs>20240923-1.jpg|20240923-2.jpg|20240923-3.jpg</xImgs>
+	<ItemDescription>Make:Volswagon|Model:Polo|Model Detail:|Year:2012|Body Style:Hatchback|Engine Size:1197|Colour:Red|Fuel type:Petrol|Import history|Imported|Number of owners:1 owner|Transmission:Automatic|Kms:82000</ItemDescription>
+	<Phone>+64Â 29Â 020Â 41411</Phone>
+	<Email></Email>
+	<Mobile></Mobile>
+  </row>
+  <row>
+	<Id>12</Id>
+	<Type>Vehicle</Type>
+	<Dexc>Import for Sale Mazda Premacy Brown, 5 door, Petrol, 2014, 1990 cc, Automatic</Dexc>
+	<Location>img\\bizList\\2\\</Location>
+	<xImgs>20240921-1.jpg|20240921-2.jpg|20240921-3.jpg|20240921-4.jpg|20240921-5.jpg|20240921-6.jpg</xImgs>
+	<ItemDescription>Make:Mazda|Model:Premacy|Model Detail:|Year:2014|Body Style:Station Wagon|Engine Size:1997|Colour:Brown|Fuel type:Petrol|Import history|Imported|Number of owners:2 owners|Kms:81614</ItemDescription>
+	<Phone>+64Â 29Â 021Â 31251</Phone>
+	<Email></Email>
+	<Mobile></Mobile>
+	<Website>www.somesite.com</Website>
+  </row>
+  <row>
+	<Id>13</Id>
+	<Type>Food</Type>
+	<Dexc>Fresh homemade cookies for sale. Perfect for any occasion. Contact for pricing and orders.</Dexc>
+	<Location>img\\bizList\\3\\</Location>
+	<xImgs>cookies-1.jpg|cookies-2.jpg</xImgs>
+	<ItemDescription>Type:Homemade|Flavor:Various|Packaging:Customizable|Freshness:Guaranteed</ItemDescription>
+	<Phone>+64 21 123 4567</Phone>
+	<Email>mrs.higgins@example.com</Email>
+	<Mobile>+64 21 123 4567</Mobile>
+  </row>
+  <row>
+	<Id>14</Id>
+	<Type>Property</Type>
+	<Dexc>Rental property available. Fully furnished and ready to move in.</Dexc>
+	<Location>img\\bizList\\4\\</Location>
+	<xImgs>rental-lui-1.jpg|rental-lui-2.jpg</xImgs>
+	<ItemDescription>Type:Apartment|Bedrooms:2|Bathrooms:1|Furnishing:Furnished|Location:City Center|Rent:$1,200/month</ItemDescription>
+	<Phone>+64 29 123 4567</Phone>
+	<Email>mr.lui@example.com</Email>
+	<Mobile>+64 29 123 4567</Mobile>
+  </row>	
+  <row>
+	<Id>15</Id>
+	<Type>Service</Type>
+	<Dexc>Professional cleaning services for homes and offices. Contact us for a quote.</Dexc>
+	<Location>img\\bizList\\5\\</Location>
+	<xImgs>cleaning-singh-1.jpg|cleaning-singh-2.jpg</xImgs>
+	<ItemDescription>Service Type:Cleaning|Specialization:Home and Office|Availability:7 Days a Week|Experience:5 Years</ItemDescription>
+	<Phone>+64 21 654 9876</Phone>
+	<Email>mr.singh@example.com</Email>
+	<Mobile>+64 21 654 9876</Mobile>
+  </row>   
 </root>
