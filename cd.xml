@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
     <thumbnail>
+		<headerText>2026 Vishu Easter Eid celebrations</headerText>
+		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2026/esher/event/16.jpg</conten>
+		<footer>In the north shore</footer>
+		<hyperlink>http://nsma.org.nz/PhotoPreview2.aspx?id=14</hyperlink>
+	</thumbnail>
+    <thumbnail>
 		<headerText>2025 Onam Celebration</headerText>
 		<conten>https://raw.githubusercontent.com/joseph-jose/www/master/2025/onam/Celeb/a3.JPG</conten>
 		<footer>In the north shore</footer>
